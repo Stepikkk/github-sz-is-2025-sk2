@@ -1,4 +1,4 @@
-﻿﻿string again = "a";
+﻿﻿string again = "a"; 
 while (again == "a")
 {
     Console.Clear();
