@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prvni_program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c69cb65db806b47aaac1aba0d6da7908bc8deff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aafde084fa79fe9c68671e85bed777e8a7758438")]
 [assembly: System.Reflection.AssemblyProductAttribute("prvni_program")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prvni_program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
