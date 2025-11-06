@@ -1,0 +1,15 @@
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\bin\Debug\net9.0\program0004b-obdelnik.exe
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\bin\Debug\net9.0\program0004b-obdelnik.deps.json
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\bin\Debug\net9.0\program0004b-obdelnik.runtimeconfig.json
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\bin\Debug\net9.0\program0004b-obdelnik.dll
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\bin\Debug\net9.0\program0004b-obdelnik.pdb
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\obj\Debug\net9.0\program0004b-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\obj\Debug\net9.0\program0004b-obdelnik.AssemblyInfoInputs.cache
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\obj\Debug\net9.0\program0004b-obdelnik.AssemblyInfo.cs
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\obj\Debug\net9.0\program0004b-obdelnik.csproj.CoreCompileInputs.cache
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\obj\Debug\net9.0\program0004b-obdelnik.sourcelink.json
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\obj\Debug\net9.0\program0004b-obdelnik.dll
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\obj\Debug\net9.0\refint\program0004b-obdelnik.dll
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\obj\Debug\net9.0\program0004b-obdelnik.pdb
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\obj\Debug\net9.0\program0004b-obdelnik.genruntimeconfig.cache
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program0004b-obdelnik\obj\Debug\net9.0\ref\program0004b-obdelnik.dll

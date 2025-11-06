@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "program0004b-obdelnik/1.0.0": {
+        "runtime": {
+          "program0004b-obdelnik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program0004b-obdelnik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
