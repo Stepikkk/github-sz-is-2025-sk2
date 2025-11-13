@@ -1,0 +1,15 @@
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\bin\Debug\net9.0\program006-minmax.exe
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\bin\Debug\net9.0\program006-minmax.deps.json
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\bin\Debug\net9.0\program006-minmax.runtimeconfig.json
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\bin\Debug\net9.0\program006-minmax.dll
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\bin\Debug\net9.0\program006-minmax.pdb
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\obj\Debug\net9.0\program006-minmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\obj\Debug\net9.0\program006-minmax.AssemblyInfoInputs.cache
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\obj\Debug\net9.0\program006-minmax.AssemblyInfo.cs
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\obj\Debug\net9.0\program006-minmax.csproj.CoreCompileInputs.cache
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\obj\Debug\net9.0\program006-minmax.sourcelink.json
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\obj\Debug\net9.0\program006-minmax.dll
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\obj\Debug\net9.0\refint\program006-minmax.dll
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\obj\Debug\net9.0\program006-minmax.pdb
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\obj\Debug\net9.0\program006-minmax.genruntimeconfig.cache
+C:\aaa\github-sz-is-2025-sk2\IS-Programy\program006-minmax\obj\Debug\net9.0\ref\program006-minmax.dll
